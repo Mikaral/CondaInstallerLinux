@@ -16,5 +16,5 @@ Now you should have an enviroment called env_pdi with Numpy, Matplotlib, Scikit-
 
 ### I can't execute installer.sh
 
-    - You should add permission to execute installer.sh. The easiest way to do this is by opening your terminal in the folder that installer.sh is and typing `chmod +x installer.sh`
-    - Alternatively, you could use the GUI to mark the file as executable. For more information read [this thread](https://askubuntu.com/questions/229589/how-to-make-a-file-e-g-a-sh-script-executable-so-it-can-be-run-from-a-termi)
+- You should add permission to execute installer.sh. The easiest way to do this is by opening your terminal in the folder that installer.sh is and typing `chmod +x installer.sh`
+- Alternatively, you could use the GUI to mark the file as executable. For more information read [this thread](https://askubuntu.com/questions/229589/how-to-make-a-file-e-g-a-sh-script-executable-so-it-can-be-run-from-a-termi)
